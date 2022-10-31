@@ -11,3 +11,5 @@ console.log(sum)
 
 calclu(1,2,3,4)
 
+var red
+
