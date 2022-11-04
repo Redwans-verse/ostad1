@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "mernpractise",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start":"nodemon main.js"
+    
+    
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redwans-verse/ostad1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Redwans-verse/ostad1/issues"
+  },
+  "homepage": "https://github.com/Redwans-verse/ostad1#readme",
+  "description": ""
+}
